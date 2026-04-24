@@ -173,4 +173,4 @@ See the [devkitPro installation guide](https://devkitpro.org/wiki/devkitPro_pacm
 * [bubble2k](https://github.com/bubble2k16/snes9x_3ds) — original snes9x_3ds emulator
 * [ramzinouri](https://github.com/ramzinouri/snes9x_3ds) — earlier snes9x_3ds fork
 * [Asdolo](https://github.com/Asdolo/snes9x_3ds_forwarder) — CIA forwarder
-* Stereoscopic 3D implementation by [f4mrfaux](https://github.com/f4mrfaux) with [Claude Code](https://claude.com/claude-code)
+* Stereoscopic 3D implementation by [Claude Code](https://claude.com/claude-code)
